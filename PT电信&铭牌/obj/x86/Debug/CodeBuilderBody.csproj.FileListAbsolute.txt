@@ -1,0 +1,54 @@
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\CodeBuilder\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\CodeBuilder\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT-YH\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache

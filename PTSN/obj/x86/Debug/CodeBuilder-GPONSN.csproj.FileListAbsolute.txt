@@ -1,0 +1,14 @@
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\CodeBuilder-GPONSN.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\CodeBuilder-GPONSN.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\bin\Debug\PTGS.exe
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\bin\Debug\PTGS.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\PTGS.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\PTGS.exe
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN\CodeBuilder\obj\x86\Debug\PTGS.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN - SN\CodeBuilder\obj\x86\Debug\PTGS.exe
+D:\C#\EquTools - sql\CodeBuilderBody-GPON SN - SN\CodeBuilder\obj\x86\Debug\PTGS.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-GPON SN - SN\CodeBuilder\obj\x86\Debug\PTGS.exe
+E:\C#\EquTools - sql\CodeBuilderBody-GPON SN - SN\CodeBuilder\obj\x86\Debug\PTGS.pdb

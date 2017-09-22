@@ -1,0 +1,30 @@
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\CodeBuilder\CodeBuilderBody\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\bin\Debug\PTCT.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\bin\Debug\PTCT.pdb
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.exe
+D:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\bin\Debug\PTCT.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\bin\Debug\PTCT.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.PrintLabelBodyCT.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.Login.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\PTCT.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilderBody-CT\CodeBuilder\obj\x86\Debug\CodeBuilderBody.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTCT.exe
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTCT.pdb

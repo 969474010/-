@@ -1,0 +1,71 @@
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\bin\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\EquTools.PTOUI.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.exe
+E:\C#\EquTools - sql\CodeBuilderBody-CT-OUI\CodeBuilder\obj\x86\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Main.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\bin\Debug\PTOUI.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\bin\Debug\PTOUI.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\PTOUI.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTOUI\obj\x86\Debug\PTOUI.pdb
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\bin\Debug\PTOUI.pdb
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTOUI\obj\x86\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\bin\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\bin\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\EquTools.Login.resources
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\EquTools.Main.resources
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\整机测试程序\产测测试C#\MTK功能测试_telnet\EquTools\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\bin\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\bin\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\PTOUI.csprojResolveAssemblyReference.cache
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\EquTools.Login.resources
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\EquTools.MessageShow.resources
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\EquTools.Main.resources
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\整机测试程序\产测测试C#\PTLable\PTOUI\obj\x86\Debug\PTOUI.csproj.GenerateResource.Cache
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI.pdb

@@ -1,0 +1,60 @@
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.exe
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.exe
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.pdb
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.pdb
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.exe
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.pdb
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.exe
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.pdb
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Main.resources
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Main.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.Properties.Resources.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.MessageShow.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\bin\Debug\PTC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\bin\Debug\PTC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\EquTools.MessageShow.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\PTC.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\PTC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTC\obj\x86\Debug\PTC.pdb
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\bin\Debug\PTC.pdb
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.Properties.Resources.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTC\obj\x86\Debug\PTC.pdb

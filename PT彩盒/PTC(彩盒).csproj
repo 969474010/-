@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{632C6CE8-659B-4EB6-B8F7-C8EC49B0FBC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PTC</RootNamespace>
+    <AssemblyName>PTC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PTMAC\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode, Version=1.0.5813.17244, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Common\code128.cs">
+      <Link>Common\code128.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\FuncCommon.cs">
+      <Link>Common\FuncCommon.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\Common\Global.cs">
+      <Link>Common\Global.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\HG610_Telnet.cs">
+      <Link>Common\HG610_Telnet.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\Login.cs">
+      <Link>Common\Login.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\Common\Login.designer.cs">
+      <Link>Common\Login.designer.cs</Link>
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\Common\MessageShow.cs">
+      <Link>Common\MessageShow.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\Common\MessageShow.designer.cs">
+      <Link>Common\MessageShow.designer.cs</Link>
+      <DependentUpon>MessageShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\Common\Ping.cs">
+      <Link>Common\Ping.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\StructCommon.cs">
+      <Link>Common\StructCommon.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\Terminal.cs">
+      <Link>Common\Terminal.cs</Link>
+    </Compile>
+    <Compile Include="..\Common\Version.cs">
+      <Link>Common\Version.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\EAN.cs" />
+    <Compile Include="LoginPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPwd.Designer.cs">
+      <DependentUpon>LoginPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPTC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPTC.Designer.cs">
+      <DependentUpon>MainPTC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print.Designer.cs">
+      <DependentUpon>print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Script\1GONUSDP_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\ANS5004_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\AZ200_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\AZ7621A_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\BE0127_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\GM619_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\AZ5001_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\AZ5002_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\AZ705B_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\BES460_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\DT721_CB_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\DTU4104.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\FX601R_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\GPO_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\DT9424W_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\GL_1100S_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\JZONU_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\JZONU_E42H_NA2W.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\PN8625_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\PT58XX_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\RL804_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\RT_M320.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\Te.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script\ZY_CT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="..\Common\Login.resx">
+      <Link>Common\Login.resx</Link>
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\Common\MessageShow.resx">
+      <Link>Common\MessageShow.resx</Link>
+      <DependentUpon>MessageShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPwd.resx">
+      <DependentUpon>LoginPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPTC.resx">
+      <DependentUpon>MainPTC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print.resx">
+      <DependentUpon>print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ThoughtWorks.QRCode.dll" />
+    <Content Include="ThoughtWorks.QRCode.pdb" />
+    <Content Include="youhua.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

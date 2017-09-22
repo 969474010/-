@@ -1,0 +1,27 @@
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.Form1.resources
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.pdb
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+E:\Nision\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.Properties.Resources.resources
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterMacSn.resources
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.csprojResolveAssemblyReference.cache
+D:\C#\CodeBuilder\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\CodeBuilder.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.exe
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\bin\Debug\PTC.pdb
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.Properties.Resources.resources
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.exe
+D:\C#\EquTools - sql\CodeBuilder\CodeBuilder\obj\x86\Debug\PTC.pdb

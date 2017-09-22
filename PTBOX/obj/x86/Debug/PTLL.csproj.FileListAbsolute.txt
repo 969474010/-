@@ -1,0 +1,54 @@
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\bin\Debug\PTLL.exe
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\bin\Debug\PTLL.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTLL.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\EquTools.PTLL.resources
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTLL.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTLL.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTLL.exe
+E:\C#\EquTools - sql\CodeBuilderBody-LL\CodeBuilder\obj\x86\Debug\PTLL.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.Properties.Resources.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Main.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.dll
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.dll
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\PTLL.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\PTLL.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\bin\Debug\PTLL.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\bin\Debug\PTLL.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.dll
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\PTLL.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\PTLL.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTLL\obj\x86\Debug\PTLL.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\PTLL.pdb
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.Properties.Resources.resources
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.exe
+D:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\obj\x86\Debug\PTLL.pdb
+D:\c#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.dll
+D:\c#\EquTools - sql\EquToolsAllInOne\EquTools\PTLL\bin\Debug\ThoughtWorks.QRCode.pdb

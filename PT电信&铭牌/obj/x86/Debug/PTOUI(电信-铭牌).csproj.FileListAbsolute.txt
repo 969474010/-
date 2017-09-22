@@ -1,0 +1,9 @@
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\bin\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\bin\Debug\PTOUI.pdb
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\EquTools.Login.resources
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\EquTools.MessageShow.resources
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\EquTools.Main.resources
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI.Properties.Resources.resources
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI(电信-铭牌).csproj.GenerateResource.Cache
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI.exe
+E:\整机测试程序\产测测试C#\PTLable\PT电信&铭牌\obj\x86\Debug\PTOUI.pdb

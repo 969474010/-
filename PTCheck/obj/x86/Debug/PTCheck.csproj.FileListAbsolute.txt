@@ -1,0 +1,63 @@
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\bin\Debug\PTCheck.exe.config
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTCheck.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\bin\Debug\PTCheck.exe
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\bin\Debug\PTCheck.pdb
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+E:\软件\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.exe.config
+E:\软件\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.exe
+E:\软件\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.pdb
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csprojResolveAssemblyReference.cache
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+E:\软件\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csprojResolveAssemblyReference.cache
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+E:\工作区\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.exe.config
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.exe
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\bin\Debug\PTCheck.pdb
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csprojResolveAssemblyReference.cache
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+E:\SoftWare\PrintTools\trunk\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\bin\Debug\PTCheck.exe.config
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\bin\Debug\PTCheck.exe
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\bin\Debug\PTCheck.pdb
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\PTCheck.csprojResolveAssemblyReference.cache
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+G:\SOFT\Print\PTLable\PTCheck\bin\Debug\PTCheck.exe.config
+G:\SOFT\Print\PTLable\PTCheck\bin\Debug\PTCheck.exe
+G:\SOFT\Print\PTLable\PTCheck\bin\Debug\PTCheck.pdb
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\EquTools.Login.resources
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\EquTools.MessageShow.resources
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\EquTools.Main.resources
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\PTCheck.Properties.Resources.resources
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\PTCheck.csproj.GenerateResource.Cache
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\PTCheck.exe
+G:\SOFT\Print\PTLable\PTCheck\obj\x86\Debug\PTCheck.pdb
+G:\SOFT\Print\PTLable\PTCheck\bin\Debug\MySql.Data.dll

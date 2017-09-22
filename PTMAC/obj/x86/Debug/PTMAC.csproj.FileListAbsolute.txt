@@ -1,0 +1,91 @@
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\bin\Debug\PTMAC.exe
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\bin\Debug\PTMAC.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\CodeBuilder.CodePrinterBody.resources
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\CodeBuilder.Login.resources
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\EquTools.MessageShow.resources
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\PTMAC.Properties.Resources.resources
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\PTMAC.exe
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\PTMAC.pdb
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\CodeBuilderBody-MAC\CodeBuilder\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\EquTools.Login.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\bin\Debug\PTMAC.exe
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\bin\Debug\PTMAC.pdb
+E:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\bin\Debug\PTMAC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\bin\Debug\PTMAC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne\EquTools\PTMAC\obj\x86\Debug\PTMAC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\bin\Debug\PTMAC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\bin\Debug\PTMAC.pdb
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\EquTools.Login.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\EquTools.Main.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\PTMAC.exe
+G:\C#\EquTools - sql\EquToolsAllInOne - azroad\EquTools\PTMAC\obj\x86\Debug\PTMAC.pdb
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\bin\Debug\PTMAC.exe
+D:\C#\EquTools - sql\PrintTools\PTLable\PTMAC\bin\Debug\PTMAC.pdb
+E:\软件\PrintTools\trunk\PTLable\PTMAC\bin\Debug\PTMAC.exe
+E:\软件\PrintTools\trunk\PTLable\PTMAC\bin\Debug\PTMAC.pdb
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+E:\软件\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+E:\工作区\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb
+E:\软件\PrintTools\trunk\PTLable\PTMAC\bin\Debug\MySql.Data.dll
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\bin\Debug\PTMAC.exe
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.LoginPwd.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.MessageShow.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\EquTools.print.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb
+E:\SoftWare\PrintTools\trunk\PTLable\PTMAC\bin\Debug\PTMAC.pdb
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\bin\Debug\PTMAC.exe
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\bin\Debug\PTMAC.pdb
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\PTMAC.csprojResolveAssemblyReference.cache
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\EquTools.LoginPwd.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\EquTools.MessageShow.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\EquTools.print.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+C:\Users\madandan\Desktop\新建文件夹\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb
+G:\SOFT\Print\PTLable\PTMAC\bin\Debug\PTMAC.exe
+G:\SOFT\Print\PTLable\PTMAC\bin\Debug\PTMAC.pdb
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\EquTools.LoginPwd.resources
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\EquTools.Main.resources
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\EquTools.MessageShow.resources
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\EquTools.print.resources
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\PTMAC.Properties.Resources.resources
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\PTMAC.csproj.GenerateResource.Cache
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\PTMAC.exe
+G:\SOFT\Print\PTLable\PTMAC\obj\x86\Debug\PTMAC.pdb

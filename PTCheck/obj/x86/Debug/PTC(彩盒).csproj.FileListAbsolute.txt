@@ -1,0 +1,14 @@
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\EquTools.Login.resources
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\EquTools.MessageShow.resources
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\EquTools.Main.resources
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\PTC.Properties.Resources.resources
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\PTC(彩盒).csproj.GenerateResource.Cache
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\PTC.exe
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\bin\Debug\PTC.exe
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\bin\Debug\PTC.pdb
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\PTC.pdb
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\bin\Debug\PTC.exe.config
+E:\整机测试程序\产测测试C#\PTLable\PT彩盒\obj\x86\Debug\PTC(彩盒).csprojResolveAssemblyReference.cache
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\bin\Debug\PTC.exe.config
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTC.exe
+D:\C#\EquTools - sql\PrintTools\PTLable\PTCheck\obj\x86\Debug\PTC.pdb

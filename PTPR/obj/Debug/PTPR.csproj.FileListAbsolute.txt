@@ -1,0 +1,10 @@
+G:\SOFT\Print\PTLable\PTPR\bin\Debug\PTPR.exe.config
+G:\SOFT\Print\PTLable\PTPR\bin\Debug\PTPR.exe
+G:\SOFT\Print\PTLable\PTPR\bin\Debug\PTPR.pdb
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\PTPR.Main.resources
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\PTPR.Properties.Resources.resources
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\PTPR.csproj.GenerateResource.Cache
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\PTPR.exe
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\PTPR.pdb
+G:\SOFT\Print\PTLable\PTPR\bin\Debug\MySql.Data.dll
+G:\SOFT\Print\PTLable\PTPR\obj\Debug\EquTools.MessageShow.resources
